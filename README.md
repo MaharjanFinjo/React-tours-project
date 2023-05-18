@@ -1,2 +1,2 @@
 ## tour
-https://japan-tour.netlify.app/
+https://tour-sample.netlify.app/
