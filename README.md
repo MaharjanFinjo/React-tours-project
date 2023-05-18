@@ -1,2 +1,2 @@
-## Japan tour
+## tour
 https://japan-tour.netlify.app/
